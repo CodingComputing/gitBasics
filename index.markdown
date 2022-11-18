@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to GitBasics. You can learn the basics of Git here.
